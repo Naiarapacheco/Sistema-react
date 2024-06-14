@@ -1,2 +1,2 @@
-## Projeto em Desenvolvimento! ⚠️
+## Projeto em Desenvolvimento. ⚠️
 
