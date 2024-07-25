@@ -80,7 +80,6 @@ function AuthProvider({ children }) {
             email: value.user.email,
             avatarUrl: null,
           };
-
           setUser(data);
           storageUser(data); //save in the localStorage
           setLoadingAuth(false);
